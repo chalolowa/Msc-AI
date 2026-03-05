@@ -1,0 +1,2 @@
+## Responsible and Explainable AI (CSA 804)
+This repository contains the code examples, tutorials and quizzes for the Responsible and Explainable AI (CSA 804) Unit at the Open University of Kenya. The course covers topics such as fairness, accountability, transparency, and ethics in AI. The code includes implementations of various algorithms and techniques for responsible and explainable AI, as well as examples and exercises practiced.
